@@ -35,7 +35,8 @@ minimum support threshold.</p>
 for each wear category.</p>
 <p align="justify">
 8. Visulaize the sequence patterns using matplotlib.
-</p>
+</p
+    
 ### Program:
 
 ```python
